@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/work_list_menu"
+        android:icon="@drawable/ic_todo_list"
+        android:title="@string/work_list"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/calculate_menu"
+        android:icon="@drawable/ic_calculate"
+        android:title="@string/calculate"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/date_menu"
+        android:icon="@drawable/ic_date"
+        android:title="@string/date"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/profile_menu"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/profile"
+        app:showAsAction="always" />
+</menu>
