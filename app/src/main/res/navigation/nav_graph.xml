@@ -5,6 +5,7 @@
     android:id="@+id/nav_graph"
     app:startDestination="@id/dutiesFragment">
 
+
     <fragment
         android:id="@+id/calculateFragment"
         android:name="com.example.todoktxapplication.CalculateFragment"
